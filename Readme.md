@@ -1,21 +1,28 @@
 MANGA LIST API
 
-- Qual o objetivo da aplicação
+API desenvolvida como trabalho final da disciplina Programação Orientada a Objetos (POO)
+O objetivo da criação foi desenvolver uma aplicação que mostrase o número de vendas, ranking de popularidade dos mangás e registra-los.
 
-- Descrição das entidades envolvidas (seus campos e banco de dados construído)
+Foi criado duas entidades para indetificação sendo uma delas para registrar as vendas(id, autor, numero de copias vendidas em milhões, número de volumes feitos, ranking, título e ano) e outra para avaliação(id, autor, avaliação, título e ano).
 
-- Descrição das rotas (URLs de acesso, respostas esperadas e exceções possíveis)
+Para cada entidade foram criadas 5 rotas, sendo elas 4 para CRUD e 1 para visualizar o id, como exceções garantimos que o id nunca seja (NULL).
 
+
+
+Back END
 
 - Java
 - Spring Boot
-- Postman 
-- pgAdmin4 (Banco de Dados)
+- Postman (Cliente)
+- PostgreSQL (Banco de Dados)
 
 
+
+Professor da disciplina:
+- Sebastião Emidio Alves Filho
 
 Autores:
 
-- Antônio Fabricio Martins
+- Antonio Fabricio Martins de Lima
 - Igor Figueiredo da Silva
-- Pedro
+- Pedro Eduardo Morais Ribeiro da Silva
