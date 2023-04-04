@@ -7,7 +7,7 @@ Foi criado duas entidades para indetificação sendo uma delas para registrar as
 
 Para cada entidade foram criadas 5 rotas, sendo elas 4 para CRUD e 1 para visualizar o id, como exceções garantimos que o id nunca seja (NULL).
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 
 Back END
 
@@ -16,7 +16,7 @@ Back END
 - Postman (Cliente)
 - PostgreSQL (Banco de Dados)
 
-
+_________________________________________________________________________________________________________________________________________________________________________
 
 Professor da disciplina:
 - Sebastião Emidio Alves Filho
