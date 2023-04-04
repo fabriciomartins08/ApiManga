@@ -1,4 +1,5 @@
 MANGA LIST API
+_________________________________________________________________________________________________________________________________________________________________________
 
 API desenvolvida como trabalho final da disciplina Programação Orientada a Objetos (POO)
 O objetivo da criação foi desenvolver uma aplicação que mostrase o número de vendas, ranking de popularidade dos mangás e registra-los.
